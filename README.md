@@ -13,8 +13,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 
 **'015_USGS_Heatmaps' Folder contains:**
 - README.md (The file which you are reading right now)
-- samples.json (Provided sample data pulled from the BBB API, but not used in the dashboards)
-- 'static > js' Folder (JavaScript files housed here)
+- LICENSE (MIT license)
 
 
 **'015_USGS_Heatmaps > part_01' Folder contains:**
