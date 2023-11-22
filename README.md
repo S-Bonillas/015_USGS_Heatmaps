@@ -9,7 +9,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 
 **Project files:**
 
-** PART 1 **
+**PART 1**
 
 **'015_USGS_Heatmaps' Folder contains:**
 - README.md (The file which you are reading right now)
