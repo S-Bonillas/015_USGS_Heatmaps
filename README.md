@@ -10,6 +10,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 **Project files:**
 
 ** PART 1 **
+
 **'015_USGS_Heatmaps' Folder contains:**
 - README.md (The file which you are reading right now)
 - samples.json (Provided sample data pulled from the BBB API, but not used in the dashboards)
@@ -27,6 +28,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 
 
 **PART 2**
+
 **'015_USGS_Heatmaps > part_02' Folder contains:**
 - index.html (HTML file, housing the project dashboards.  Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
 
