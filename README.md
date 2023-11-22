@@ -17,7 +17,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 
 
 **'015_USGS_Heatmaps > part_01' Folder contains:**
-- index.html (HTML file, housing the project dashboards.  Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
+- index.html (Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
 
 **'015_USGS_Heatmaps > part_01 > static > css' Folder contains:**
 - style.css (HTML style data for the body as well as Leaflet map and legend formatting)
@@ -29,7 +29,7 @@ This project utilizes JavaScript (Leaflet) to create Interactive Dashboards to d
 **PART 2**
 
 **'015_USGS_Heatmaps > part_02' Folder contains:**
-- index.html (HTML file, housing the project dashboards.  Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
+- index.html (Original Index.html was provided for the project, but scripts section was updated to accommodate the created JavaScript files)
 
 **'015_USGS_Heatmaps > part_02 > static > css' Folder contains:**
 - style.css (HTML style data for the body as well as Leaflet map and legend formatting)
